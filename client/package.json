@@ -7,7 +7,7 @@
   },
   "author": "Alexander",
   "dependencies": {
-    "axios": "^0.9.1",
+    "axios": "^0.21.1",
     "classnames": "^2.2.3",
     "dotenv": "^8.1.0",
     "dotenv-webpack": "^1.7.0",
